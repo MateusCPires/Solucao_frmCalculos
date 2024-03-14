@@ -58,6 +58,12 @@
     <Compile Include="frmMenu.Designer.cs">
       <DependentUpon>frmMenu.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmSuperCalc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSuperCalc.Designer.cs">
+      <DependentUpon>frmSuperCalc.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmCalculos.resx">
